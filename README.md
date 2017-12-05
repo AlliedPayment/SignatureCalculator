@@ -1,2 +1,3 @@
-# [SignatureCalculator](https://alliedpayment.github.io/Utilities/)
-This project has moved: https://alliedpayment.github.io/Utilities/
+# [This project moved](https://alliedpayment.github.io/Utilities/)
+
+## https://alliedpayment.github.io/Utilities/
